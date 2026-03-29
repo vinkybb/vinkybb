@@ -1,4 +1,4 @@
-### 你好 :neutral_face:
+### Hi, this is Vinky here :cat:
 
 ![Stats](./profile/stats.svg)
 
